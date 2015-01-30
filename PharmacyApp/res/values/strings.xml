@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PharmacyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to pharmacy app</string>
+    <string name="Submit">Submit</string>
+    <string name="menu">Choose an option</string>
+
+    <string-array name="list">
+        <item id="one">Available products</item>
+        <item>Out of stock products</item>
+        <item>Ordered products</item>
+        <item>Add products</item>
+    </string-array>
+    <string-array name="medicines">
+        <item>Medicine one</item>
+        <item>Medicine two</item>
+    </string-array>
+
+    <string name="title_activity_available_products">AvailableProducts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_out_of_stock">OutOfStock</string>
+    <string name="title_activity_ordered_products">OrderedProducts</string>
+    <string name="title_activity_add_products">AddProducts</string>
+    <string name="title_activity_products">Products</string>
+
+</resources>
